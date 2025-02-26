@@ -28,16 +28,16 @@ jobs:
         run: pip install --no-cache-dir -r requirements.txt
 
       - name: Ejecutar script - Generar archivo JSON de países
-        run: python src/pad_2025/obtener_paises.py
+        run: python src/pad_2025/obtener_paises.json
 
-      - name: Ejecutar script - Leer archivo JSON de obtener_paises
-        run: python src/pad_2025/leer_obtener_paises.py
+      - name: Ejecutar script - Leer archivo JSON de paises
+        run: python src/pad_2025/leer_paises.json
 
       - name: Ejecutar script - Graficar líneas de actividad_1
         run: python src/pad_2025/generar_grafica.png
 
       - name: Ejecutar script - Leer archivo TXT (desempacado)
-        run: python src/pad_2025/leer_instruccion_1.py
+        run: python src/pad_2025/leer_instruccion_1.txt
 
       - name: Ejecutar script - Generar archivo CSV de frutas
         run: python src/pad_2025/generar_frutas.csv
@@ -47,7 +47,7 @@ jobs:
 
       - name: Confirmar cambios en el repositorio (sin hacer push)
         run: |
-          git          commit_message: Entrega actividad 1
+          git          commit_message: Entrega actividad_1
           git config   commit_user_name: LUIS DE LA OSSA
           git config   commit_user_email:fernando.delaossa@est.iudigital.edu.co
           git add      commit_author: fernando.delaossa@est.iudigital.edu.co            

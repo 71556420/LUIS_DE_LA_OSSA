@@ -2,10 +2,10 @@ import requests
 import json
 import os
 
-# Definir la URL de la API
+# definir la URL de la API
 URL = "https://restcountries.com/v3.1/all"
 
-# Directorio donde guardaremos el JSON
+# directorio donde guardaremos el JSON
 OUTPUT_DIR = "src/pad_2025/static/json"
 OUTPUT_FILE = os.path.join(OUTPUT_DIR, "paises.json")
 
@@ -16,7 +16,7 @@ def obtener_datos_paises():
         response.raise_for_status()  # Lanza un error si la solicitud falla
         datos = response.json()
         
-        # Extraer solo la información relevante
+        # extraer solo la información relevante
         paises_info = [
             {
                 "nombre": pais.get("name", {}).get("common", "Desconocido"),
@@ -28,10 +28,10 @@ def obtener_datos_paises():
             for pais in datos
         ]
 
-        # Crear la carpeta si no existe
+        # crear la carpeta si no existe
         os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-        # Guardar en un archivo tipo .JSON
+        # guardar en un archivo tipo .JSON
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(paises_info, f, indent=4, ensure_ascii=False)
 
@@ -61,7 +61,7 @@ def leer_datos_paises():
 
         print("\n Datos cargados correctamente. Ejemplo de 5 países:\n")
         
-        # Mostrar información de los primeros 5 países
+        # mostrar información de los primeros 5 países
         for i, pais in enumerate(data[:5]):
             nombre = pais.get("nombre", "Desconocido")
             capital = pais.get("capital", "Desconocida")
@@ -77,7 +77,7 @@ def leer_datos_paises():
     except FileNotFoundError:
         print(f"Error: El archivo {OUTPUT_FILE} no existe.")
 
-# Ejecutar el script
+# ejecutar el script
 if __name__ == "__main__":
     obtener_datos_paises()
     mostrar_ejemplo_datos()
