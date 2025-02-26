@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar el repositorio en el entorno de GitHub Actions
+      - name: Clonar el repositorio en GitHub Actions
         uses: actions/checkout@v3
 
       - name: Configurar Python
@@ -21,33 +21,40 @@ jobs:
         with:
           python-version: "3.10"
 
-      - name: Instalar dependencias
-        run: pip install -r requirements.txt || echo "No se encontraron dependencias adicionales"
+      - name: Instalar dependencias necesarias
+        run: pip install requests matplotlib numpy pandas
 
-      - name: Instalar dependencias
-        run: pip install --no-cache-dir -r requirements.txt
+      - name: Crear directorios requeridos
+        run: |
+          mkdir -p src/pad_2025/static/json
+          mkdir -p src/pad_2025/static/txt
+          mkdir -p src/pad_2025/static/csv
+          mkdir -p src/pad_2025/static/img
 
       - name: Ejecutar script - Generar archivo JSON de países
         run: python src/pad_2025/obtener_paises.py
 
-      - name: Ejecutar script - Leer archivo JSON de paises
-        run: python src/pad_2025/obtener_paises.py
+      - name: Ejecutar script - Leer archivo JSON de países
+        run: python src/pad_2025/obtener_paises.py  # Aquí hay un posible error, ¿debería ser leer_paises.py?
 
       - name: Ejecutar script - Graficar líneas de actividad_1
-        run: python src/pad_2025/generar_grafica.png
+        run: python src/pad_2025/actividad_1.py  
 
       - name: Ejecutar script - Leer archivo TXT (desempacado)
-        run: python src/pad_2025/leer_instruccion_1.txt
+        run: python src/pad_2025/leer_instruccion_1.py  
 
       - name: Ejecutar script - Generar archivo CSV de frutas
-        run: python src/pad_2025/generar_frutas.csv
+        run: python src/pad_2025/actividad_1.py  
 
       - name: Ejecutar script - Leer archivo CSV de frutas
-        run: python src/pad_2025/leer_frutas.csv
+        run: python src/pad_2025/actividad_1.py  
 
       - name: Confirmar cambios en el repositorio (sin hacer push)
         run: |
-          git          commit_message: Entrega actividad_1
-          git config   commit_user_name: LUIS DE LA OSSA
-          git config   commit_user_email:fernando.delaossa@est.iudigital.edu.co
-          git add      commit_author: fernando.delaossa@est.iudigital.edu.co            
+          name: Commit and Push changes
+          uses: stefanzweifel/git-auto-commit-action@v5
+          with:
+          commit_message: Entrega actividad_1
+          commit_user_name: Luis de la Ossa [GitHub Actions]
+          commit_user_email: fernando.delaossa@est.iudigital.edu.co
+          commit_author: fernando.delaossa@est.iudigital.edu.co
