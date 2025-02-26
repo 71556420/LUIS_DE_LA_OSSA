@@ -31,7 +31,7 @@ def obtener_datos_paises():
         # Crear la carpeta si no existe
         os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-        # Guardar en un archivo tipo JSON
+        # Guardar en un archivo tipo .JSON
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(paises_info, f, indent=4, ensure_ascii=False)
 
