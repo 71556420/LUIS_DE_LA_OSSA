@@ -1,0 +1,2415 @@
+[
+    {
+        "nombre": "South Georgia",
+        "capital": "King Edward Point",
+        "poblacion": 30,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/gs.png"
+    },
+    {
+        "nombre": "Grenada",
+        "capital": "St. George's",
+        "poblacion": 112519,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/gd.png"
+    },
+    {
+        "nombre": "Switzerland",
+        "capital": "Bern",
+        "poblacion": 8654622,
+        "idiomas": [
+            "French",
+            "Swiss German",
+            "Italian",
+            "Romansh"
+        ],
+        "bandera": "https://flagcdn.com/w320/ch.png"
+    },
+    {
+        "nombre": "Sierra Leone",
+        "capital": "Freetown",
+        "poblacion": 7976985,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/sl.png"
+    },
+    {
+        "nombre": "Hungary",
+        "capital": "Budapest",
+        "poblacion": 9749763,
+        "idiomas": [
+            "Hungarian"
+        ],
+        "bandera": "https://flagcdn.com/w320/hu.png"
+    },
+    {
+        "nombre": "Taiwan",
+        "capital": "Taipei",
+        "poblacion": 23503349,
+        "idiomas": [
+            "Chinese"
+        ],
+        "bandera": "https://flagcdn.com/w320/tw.png"
+    },
+    {
+        "nombre": "Wallis and Futuna",
+        "capital": "Mata-Utu",
+        "poblacion": 11750,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/wf.png"
+    },
+    {
+        "nombre": "Barbados",
+        "capital": "Bridgetown",
+        "poblacion": 287371,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/bb.png"
+    },
+    {
+        "nombre": "Pitcairn Islands",
+        "capital": "Adamstown",
+        "poblacion": 56,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/pn.png"
+    },
+    {
+        "nombre": "Ivory Coast",
+        "capital": "Yamoussoukro",
+        "poblacion": 26378275,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/ci.png"
+    },
+    {
+        "nombre": "Tunisia",
+        "capital": "Tunis",
+        "poblacion": 11818618,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/tn.png"
+    },
+    {
+        "nombre": "Italy",
+        "capital": "Rome",
+        "poblacion": 59554023,
+        "idiomas": [
+            "Italian"
+        ],
+        "bandera": "https://flagcdn.com/w320/it.png"
+    },
+    {
+        "nombre": "Benin",
+        "capital": "Porto-Novo",
+        "poblacion": 12123198,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/bj.png"
+    },
+    {
+        "nombre": "Indonesia",
+        "capital": "Jakarta",
+        "poblacion": 273523621,
+        "idiomas": [
+            "Indonesian"
+        ],
+        "bandera": "https://flagcdn.com/w320/id.png"
+    },
+    {
+        "nombre": "Cape Verde",
+        "capital": "Praia",
+        "poblacion": 555988,
+        "idiomas": [
+            "Portuguese"
+        ],
+        "bandera": "https://flagcdn.com/w320/cv.png"
+    },
+    {
+        "nombre": "Saint Kitts and Nevis",
+        "capital": "Basseterre",
+        "poblacion": 53192,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/kn.png"
+    },
+    {
+        "nombre": "Laos",
+        "capital": "Vientiane",
+        "poblacion": 7275556,
+        "idiomas": [
+            "Lao"
+        ],
+        "bandera": "https://flagcdn.com/w320/la.png"
+    },
+    {
+        "nombre": "Caribbean Netherlands",
+        "capital": "Kralendijk",
+        "poblacion": 25987,
+        "idiomas": [
+            "English",
+            "Dutch",
+            "Papiamento"
+        ],
+        "bandera": "https://flagcdn.com/w320/bq.png"
+    },
+    {
+        "nombre": "Uganda",
+        "capital": "Kampala",
+        "poblacion": 45741000,
+        "idiomas": [
+            "English",
+            "Swahili"
+        ],
+        "bandera": "https://flagcdn.com/w320/ug.png"
+    },
+    {
+        "nombre": "Andorra",
+        "capital": "Andorra la Vella",
+        "poblacion": 77265,
+        "idiomas": [
+            "Catalan"
+        ],
+        "bandera": "https://flagcdn.com/w320/ad.png"
+    },
+    {
+        "nombre": "Burundi",
+        "capital": "Gitega",
+        "poblacion": 11890781,
+        "idiomas": [
+            "French",
+            "Kirundi"
+        ],
+        "bandera": "https://flagcdn.com/w320/bi.png"
+    },
+    {
+        "nombre": "South Africa",
+        "capital": "Pretoria",
+        "poblacion": 59308690,
+        "idiomas": [
+            "Afrikaans",
+            "English",
+            "Southern Ndebele",
+            "Northern Sotho",
+            "Southern Sotho",
+            "Swazi",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zulu"
+        ],
+        "bandera": "https://flagcdn.com/w320/za.png"
+    },
+    {
+        "nombre": "France",
+        "capital": "Paris",
+        "poblacion": 67391582,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/fr.png"
+    },
+    {
+        "nombre": "Libya",
+        "capital": "Tripoli",
+        "poblacion": 6871287,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/ly.png"
+    },
+    {
+        "nombre": "Mexico",
+        "capital": "Mexico City",
+        "poblacion": 128932753,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/mx.png"
+    },
+    {
+        "nombre": "Gabon",
+        "capital": "Libreville",
+        "poblacion": 2225728,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/ga.png"
+    },
+    {
+        "nombre": "Northern Mariana Islands",
+        "capital": "Saipan",
+        "poblacion": 57557,
+        "idiomas": [
+            "Carolinian",
+            "Chamorro",
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/mp.png"
+    },
+    {
+        "nombre": "North Macedonia",
+        "capital": "Skopje",
+        "poblacion": 2077132,
+        "idiomas": [
+            "Macedonian"
+        ],
+        "bandera": "https://flagcdn.com/w320/mk.png"
+    },
+    {
+        "nombre": "China",
+        "capital": "Beijing",
+        "poblacion": 1402112000,
+        "idiomas": [
+            "Chinese"
+        ],
+        "bandera": "https://flagcdn.com/w320/cn.png"
+    },
+    {
+        "nombre": "Yemen",
+        "capital": "Sana'a",
+        "poblacion": 29825968,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/ye.png"
+    },
+    {
+        "nombre": "Saint Barthélemy",
+        "capital": "Gustavia",
+        "poblacion": 4255,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/bl.png"
+    },
+    {
+        "nombre": "Guernsey",
+        "capital": "St. Peter Port",
+        "poblacion": 62999,
+        "idiomas": [
+            "English",
+            "French",
+            "Guernésiais"
+        ],
+        "bandera": "https://flagcdn.com/w320/gg.png"
+    },
+    {
+        "nombre": "Solomon Islands",
+        "capital": "Honiara",
+        "poblacion": 686878,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/sb.png"
+    },
+    {
+        "nombre": "Svalbard and Jan Mayen",
+        "capital": "Longyearbyen",
+        "poblacion": 2562,
+        "idiomas": [
+            "Norwegian"
+        ],
+        "bandera": "https://flagcdn.com/w320/sj.png"
+    },
+    {
+        "nombre": "Faroe Islands",
+        "capital": "Tórshavn",
+        "poblacion": 48865,
+        "idiomas": [
+            "Danish",
+            "Faroese"
+        ],
+        "bandera": "https://flagcdn.com/w320/fo.png"
+    },
+    {
+        "nombre": "Uzbekistan",
+        "capital": "Tashkent",
+        "poblacion": 34232050,
+        "idiomas": [
+            "Russian",
+            "Uzbek"
+        ],
+        "bandera": "https://flagcdn.com/w320/uz.png"
+    },
+    {
+        "nombre": "Egypt",
+        "capital": "Cairo",
+        "poblacion": 102334403,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/eg.png"
+    },
+    {
+        "nombre": "Senegal",
+        "capital": "Dakar",
+        "poblacion": 16743930,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/sn.png"
+    },
+    {
+        "nombre": "Sri Lanka",
+        "capital": "Sri Jayawardenepura Kotte",
+        "poblacion": 21919000,
+        "idiomas": [
+            "Sinhala",
+            "Tamil"
+        ],
+        "bandera": "https://flagcdn.com/w320/lk.png"
+    },
+    {
+        "nombre": "Palestine",
+        "capital": "Ramallah",
+        "poblacion": 4803269,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/ps.png"
+    },
+    {
+        "nombre": "Bangladesh",
+        "capital": "Dhaka",
+        "poblacion": 164689383,
+        "idiomas": [
+            "Bengali"
+        ],
+        "bandera": "https://flagcdn.com/w320/bd.png"
+    },
+    {
+        "nombre": "Peru",
+        "capital": "Lima",
+        "poblacion": 32971846,
+        "idiomas": [
+            "Aymara",
+            "Quechua",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/pe.png"
+    },
+    {
+        "nombre": "Singapore",
+        "capital": "Singapore",
+        "poblacion": 5685807,
+        "idiomas": [
+            "English",
+            "Chinese",
+            "Malay",
+            "Tamil"
+        ],
+        "bandera": "https://flagcdn.com/w320/sg.png"
+    },
+    {
+        "nombre": "Turkey",
+        "capital": "Ankara",
+        "poblacion": 84339067,
+        "idiomas": [
+            "Turkish"
+        ],
+        "bandera": "https://flagcdn.com/w320/tr.png"
+    },
+    {
+        "nombre": "Afghanistan",
+        "capital": "Kabul",
+        "poblacion": 40218234,
+        "idiomas": [
+            "Dari",
+            "Pashto",
+            "Turkmen"
+        ],
+        "bandera": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_the_Taliban.svg/320px-Flag_of_the_Taliban.svg.png"
+    },
+    {
+        "nombre": "Aruba",
+        "capital": "Oranjestad",
+        "poblacion": 106766,
+        "idiomas": [
+            "Dutch",
+            "Papiamento"
+        ],
+        "bandera": "https://flagcdn.com/w320/aw.png"
+    },
+    {
+        "nombre": "Cook Islands",
+        "capital": "Avarua",
+        "poblacion": 18100,
+        "idiomas": [
+            "English",
+            "Cook Islands Māori"
+        ],
+        "bandera": "https://flagcdn.com/w320/ck.png"
+    },
+    {
+        "nombre": "United Kingdom",
+        "capital": "London",
+        "poblacion": 67215293,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/gb.png"
+    },
+    {
+        "nombre": "Zambia",
+        "capital": "Lusaka",
+        "poblacion": 18383956,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/zm.png"
+    },
+    {
+        "nombre": "Finland",
+        "capital": "Helsinki",
+        "poblacion": 5530719,
+        "idiomas": [
+            "Finnish",
+            "Swedish"
+        ],
+        "bandera": "https://flagcdn.com/w320/fi.png"
+    },
+    {
+        "nombre": "Niger",
+        "capital": "Niamey",
+        "poblacion": 24206636,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/ne.png"
+    },
+    {
+        "nombre": "Christmas Island",
+        "capital": "Flying Fish Cove",
+        "poblacion": 2072,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/cx.png"
+    },
+    {
+        "nombre": "Tokelau",
+        "capital": "Fakaofo",
+        "poblacion": 1411,
+        "idiomas": [
+            "English",
+            "Samoan",
+            "Tokelauan"
+        ],
+        "bandera": "https://flagcdn.com/w320/tk.png"
+    },
+    {
+        "nombre": "Guinea-Bissau",
+        "capital": "Bissau",
+        "poblacion": 1967998,
+        "idiomas": [
+            "Portuguese",
+            "Upper Guinea Creole"
+        ],
+        "bandera": "https://flagcdn.com/w320/gw.png"
+    },
+    {
+        "nombre": "Azerbaijan",
+        "capital": "Baku",
+        "poblacion": 10110116,
+        "idiomas": [
+            "Azerbaijani"
+        ],
+        "bandera": "https://flagcdn.com/w320/az.png"
+    },
+    {
+        "nombre": "Réunion",
+        "capital": "Saint-Denis",
+        "poblacion": 840974,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/re.png"
+    },
+    {
+        "nombre": "Djibouti",
+        "capital": "Djibouti",
+        "poblacion": 988002,
+        "idiomas": [
+            "Arabic",
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/dj.png"
+    },
+    {
+        "nombre": "North Korea",
+        "capital": "Pyongyang",
+        "poblacion": 25778815,
+        "idiomas": [
+            "Korean"
+        ],
+        "bandera": "https://flagcdn.com/w320/kp.png"
+    },
+    {
+        "nombre": "Mauritius",
+        "capital": "Port Louis",
+        "poblacion": 1265740,
+        "idiomas": [
+            "English",
+            "French",
+            "Mauritian Creole"
+        ],
+        "bandera": "https://flagcdn.com/w320/mu.png"
+    },
+    {
+        "nombre": "Montserrat",
+        "capital": "Plymouth",
+        "poblacion": 4922,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/ms.png"
+    },
+    {
+        "nombre": "United States Virgin Islands",
+        "capital": "Charlotte Amalie",
+        "poblacion": 106290,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/vi.png"
+    },
+    {
+        "nombre": "Colombia",
+        "capital": "Bogotá",
+        "poblacion": 50882884,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/co.png"
+    },
+    {
+        "nombre": "Greece",
+        "capital": "Athens",
+        "poblacion": 10715549,
+        "idiomas": [
+            "Greek"
+        ],
+        "bandera": "https://flagcdn.com/w320/gr.png"
+    },
+    {
+        "nombre": "Croatia",
+        "capital": "Zagreb",
+        "poblacion": 4047200,
+        "idiomas": [
+            "Croatian"
+        ],
+        "bandera": "https://flagcdn.com/w320/hr.png"
+    },
+    {
+        "nombre": "Morocco",
+        "capital": "Rabat",
+        "poblacion": 36910558,
+        "idiomas": [
+            "Arabic",
+            "Berber"
+        ],
+        "bandera": "https://flagcdn.com/w320/ma.png"
+    },
+    {
+        "nombre": "Algeria",
+        "capital": "Algiers",
+        "poblacion": 44700000,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/dz.png"
+    },
+    {
+        "nombre": "Antarctica",
+        "capital": "Desconocida",
+        "poblacion": 1000,
+        "idiomas": [],
+        "bandera": "https://flagcdn.com/w320/aq.png"
+    },
+    {
+        "nombre": "Netherlands",
+        "capital": "Amsterdam",
+        "poblacion": 16655799,
+        "idiomas": [
+            "Dutch"
+        ],
+        "bandera": "https://flagcdn.com/w320/nl.png"
+    },
+    {
+        "nombre": "Sudan",
+        "capital": "Khartoum",
+        "poblacion": 43849269,
+        "idiomas": [
+            "Arabic",
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/sd.png"
+    },
+    {
+        "nombre": "Fiji",
+        "capital": "Suva",
+        "poblacion": 896444,
+        "idiomas": [
+            "English",
+            "Fijian",
+            "Fiji Hindi"
+        ],
+        "bandera": "https://flagcdn.com/w320/fj.png"
+    },
+    {
+        "nombre": "Liechtenstein",
+        "capital": "Vaduz",
+        "poblacion": 38137,
+        "idiomas": [
+            "German"
+        ],
+        "bandera": "https://flagcdn.com/w320/li.png"
+    },
+    {
+        "nombre": "Nepal",
+        "capital": "Kathmandu",
+        "poblacion": 29136808,
+        "idiomas": [
+            "Nepali"
+        ],
+        "bandera": "https://flagcdn.com/w320/np.png"
+    },
+    {
+        "nombre": "Puerto Rico",
+        "capital": "San Juan",
+        "poblacion": 3194034,
+        "idiomas": [
+            "English",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/pr.png"
+    },
+    {
+        "nombre": "Georgia",
+        "capital": "Tbilisi",
+        "poblacion": 3714000,
+        "idiomas": [
+            "Georgian"
+        ],
+        "bandera": "https://flagcdn.com/w320/ge.png"
+    },
+    {
+        "nombre": "Pakistan",
+        "capital": "Islamabad",
+        "poblacion": 220892331,
+        "idiomas": [
+            "English",
+            "Urdu"
+        ],
+        "bandera": "https://flagcdn.com/w320/pk.png"
+    },
+    {
+        "nombre": "Monaco",
+        "capital": "Monaco",
+        "poblacion": 39244,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/mc.png"
+    },
+    {
+        "nombre": "Botswana",
+        "capital": "Gaborone",
+        "poblacion": 2351625,
+        "idiomas": [
+            "English",
+            "Tswana"
+        ],
+        "bandera": "https://flagcdn.com/w320/bw.png"
+    },
+    {
+        "nombre": "Lebanon",
+        "capital": "Beirut",
+        "poblacion": 6825442,
+        "idiomas": [
+            "Arabic",
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/lb.png"
+    },
+    {
+        "nombre": "Papua New Guinea",
+        "capital": "Port Moresby",
+        "poblacion": 8947027,
+        "idiomas": [
+            "English",
+            "Hiri Motu",
+            "Tok Pisin"
+        ],
+        "bandera": "https://flagcdn.com/w320/pg.png"
+    },
+    {
+        "nombre": "Mayotte",
+        "capital": "Mamoudzou",
+        "poblacion": 226915,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/yt.png"
+    },
+    {
+        "nombre": "Dominican Republic",
+        "capital": "Santo Domingo",
+        "poblacion": 10847904,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/do.png"
+    },
+    {
+        "nombre": "Norfolk Island",
+        "capital": "Kingston",
+        "poblacion": 2302,
+        "idiomas": [
+            "English",
+            "Norfuk"
+        ],
+        "bandera": "https://flagcdn.com/w320/nf.png"
+    },
+    {
+        "nombre": "Bouvet Island",
+        "capital": "Desconocida",
+        "poblacion": 0,
+        "idiomas": [
+            "Norwegian"
+        ],
+        "bandera": "https://flagcdn.com/w320/bv.png"
+    },
+    {
+        "nombre": "Qatar",
+        "capital": "Doha",
+        "poblacion": 2881060,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/qa.png"
+    },
+    {
+        "nombre": "Madagascar",
+        "capital": "Antananarivo",
+        "poblacion": 27691019,
+        "idiomas": [
+            "French",
+            "Malagasy"
+        ],
+        "bandera": "https://flagcdn.com/w320/mg.png"
+    },
+    {
+        "nombre": "India",
+        "capital": "New Delhi",
+        "poblacion": 1380004385,
+        "idiomas": [
+            "English",
+            "Hindi",
+            "Tamil"
+        ],
+        "bandera": "https://flagcdn.com/w320/in.png"
+    },
+    {
+        "nombre": "Syria",
+        "capital": "Damascus",
+        "poblacion": 17500657,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/sy.png"
+    },
+    {
+        "nombre": "Montenegro",
+        "capital": "Podgorica",
+        "poblacion": 621718,
+        "idiomas": [
+            "Montenegrin"
+        ],
+        "bandera": "https://flagcdn.com/w320/me.png"
+    },
+    {
+        "nombre": "Eswatini",
+        "capital": "Mbabane",
+        "poblacion": 1160164,
+        "idiomas": [
+            "English",
+            "Swazi"
+        ],
+        "bandera": "https://flagcdn.com/w320/sz.png"
+    },
+    {
+        "nombre": "Paraguay",
+        "capital": "Asunción",
+        "poblacion": 7132530,
+        "idiomas": [
+            "Guaraní",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/py.png"
+    },
+    {
+        "nombre": "El Salvador",
+        "capital": "San Salvador",
+        "poblacion": 6486201,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/sv.png"
+    },
+    {
+        "nombre": "Ukraine",
+        "capital": "Kyiv",
+        "poblacion": 44134693,
+        "idiomas": [
+            "Ukrainian"
+        ],
+        "bandera": "https://flagcdn.com/w320/ua.png"
+    },
+    {
+        "nombre": "Isle of Man",
+        "capital": "Douglas",
+        "poblacion": 85032,
+        "idiomas": [
+            "English",
+            "Manx"
+        ],
+        "bandera": "https://flagcdn.com/w320/im.png"
+    },
+    {
+        "nombre": "Namibia",
+        "capital": "Windhoek",
+        "poblacion": 2540916,
+        "idiomas": [
+            "Afrikaans",
+            "German",
+            "English",
+            "Herero",
+            "Khoekhoe",
+            "Kwangali",
+            "Lozi",
+            "Ndonga",
+            "Tswana"
+        ],
+        "bandera": "https://flagcdn.com/w320/na.png"
+    },
+    {
+        "nombre": "United Arab Emirates",
+        "capital": "Abu Dhabi",
+        "poblacion": 9890400,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/ae.png"
+    },
+    {
+        "nombre": "Bulgaria",
+        "capital": "Sofia",
+        "poblacion": 6927288,
+        "idiomas": [
+            "Bulgarian"
+        ],
+        "bandera": "https://flagcdn.com/w320/bg.png"
+    },
+    {
+        "nombre": "Greenland",
+        "capital": "Nuuk",
+        "poblacion": 56367,
+        "idiomas": [
+            "Greenlandic"
+        ],
+        "bandera": "https://flagcdn.com/w320/gl.png"
+    },
+    {
+        "nombre": "Germany",
+        "capital": "Berlin",
+        "poblacion": 83240525,
+        "idiomas": [
+            "German"
+        ],
+        "bandera": "https://flagcdn.com/w320/de.png"
+    },
+    {
+        "nombre": "Cambodia",
+        "capital": "Phnom Penh",
+        "poblacion": 16718971,
+        "idiomas": [
+            "Khmer"
+        ],
+        "bandera": "https://flagcdn.com/w320/kh.png"
+    },
+    {
+        "nombre": "Iraq",
+        "capital": "Baghdad",
+        "poblacion": 40222503,
+        "idiomas": [
+            "Arabic",
+            "Aramaic",
+            "Sorani"
+        ],
+        "bandera": "https://flagcdn.com/w320/iq.png"
+    },
+    {
+        "nombre": "French Southern and Antarctic Lands",
+        "capital": "Port-aux-Français",
+        "poblacion": 400,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/tf.png"
+    },
+    {
+        "nombre": "Sweden",
+        "capital": "Stockholm",
+        "poblacion": 10353442,
+        "idiomas": [
+            "Swedish"
+        ],
+        "bandera": "https://flagcdn.com/w320/se.png"
+    },
+    {
+        "nombre": "Cuba",
+        "capital": "Havana",
+        "poblacion": 11326616,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/cu.png"
+    },
+    {
+        "nombre": "Kyrgyzstan",
+        "capital": "Bishkek",
+        "poblacion": 6591600,
+        "idiomas": [
+            "Kyrgyz",
+            "Russian"
+        ],
+        "bandera": "https://flagcdn.com/w320/kg.png"
+    },
+    {
+        "nombre": "Russia",
+        "capital": "Moscow",
+        "poblacion": 144104080,
+        "idiomas": [
+            "Russian"
+        ],
+        "bandera": "https://flagcdn.com/w320/ru.png"
+    },
+    {
+        "nombre": "Malaysia",
+        "capital": "Kuala Lumpur",
+        "poblacion": 32365998,
+        "idiomas": [
+            "English",
+            "Malay"
+        ],
+        "bandera": "https://flagcdn.com/w320/my.png"
+    },
+    {
+        "nombre": "São Tomé and Príncipe",
+        "capital": "São Tomé",
+        "poblacion": 219161,
+        "idiomas": [
+            "Portuguese"
+        ],
+        "bandera": "https://flagcdn.com/w320/st.png"
+    },
+    {
+        "nombre": "Cyprus",
+        "capital": "Nicosia",
+        "poblacion": 1207361,
+        "idiomas": [
+            "Greek",
+            "Turkish"
+        ],
+        "bandera": "https://flagcdn.com/w320/cy.png"
+    },
+    {
+        "nombre": "Canada",
+        "capital": "Ottawa",
+        "poblacion": 38005238,
+        "idiomas": [
+            "English",
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/ca.png"
+    },
+    {
+        "nombre": "Malawi",
+        "capital": "Lilongwe",
+        "poblacion": 19129955,
+        "idiomas": [
+            "English",
+            "Chewa"
+        ],
+        "bandera": "https://flagcdn.com/w320/mw.png"
+    },
+    {
+        "nombre": "Saudi Arabia",
+        "capital": "Riyadh",
+        "poblacion": 34813867,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/sa.png"
+    },
+    {
+        "nombre": "Bosnia and Herzegovina",
+        "capital": "Sarajevo",
+        "poblacion": 3280815,
+        "idiomas": [
+            "Bosnian",
+            "Croatian",
+            "Serbian"
+        ],
+        "bandera": "https://flagcdn.com/w320/ba.png"
+    },
+    {
+        "nombre": "Ethiopia",
+        "capital": "Addis Ababa",
+        "poblacion": 114963583,
+        "idiomas": [
+            "Amharic"
+        ],
+        "bandera": "https://flagcdn.com/w320/et.png"
+    },
+    {
+        "nombre": "Spain",
+        "capital": "Madrid",
+        "poblacion": 47351567,
+        "idiomas": [
+            "Spanish",
+            "Catalan",
+            "Basque",
+            "Galician"
+        ],
+        "bandera": "https://flagcdn.com/w320/es.png"
+    },
+    {
+        "nombre": "Slovenia",
+        "capital": "Ljubljana",
+        "poblacion": 2100126,
+        "idiomas": [
+            "Slovene"
+        ],
+        "bandera": "https://flagcdn.com/w320/si.png"
+    },
+    {
+        "nombre": "Oman",
+        "capital": "Muscat",
+        "poblacion": 5106622,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/om.png"
+    },
+    {
+        "nombre": "Saint Pierre and Miquelon",
+        "capital": "Saint-Pierre",
+        "poblacion": 6069,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/pm.png"
+    },
+    {
+        "nombre": "Macau",
+        "capital": "Desconocida",
+        "poblacion": 649342,
+        "idiomas": [
+            "Portuguese",
+            "Chinese"
+        ],
+        "bandera": "https://flagcdn.com/w320/mo.png"
+    },
+    {
+        "nombre": "San Marino",
+        "capital": "City of San Marino",
+        "poblacion": 33938,
+        "idiomas": [
+            "Italian"
+        ],
+        "bandera": "https://flagcdn.com/w320/sm.png"
+    },
+    {
+        "nombre": "Lesotho",
+        "capital": "Maseru",
+        "poblacion": 2142252,
+        "idiomas": [
+            "English",
+            "Sotho"
+        ],
+        "bandera": "https://flagcdn.com/w320/ls.png"
+    },
+    {
+        "nombre": "Marshall Islands",
+        "capital": "Majuro",
+        "poblacion": 59194,
+        "idiomas": [
+            "English",
+            "Marshallese"
+        ],
+        "bandera": "https://flagcdn.com/w320/mh.png"
+    },
+    {
+        "nombre": "Sint Maarten",
+        "capital": "Philipsburg",
+        "poblacion": 40812,
+        "idiomas": [
+            "English",
+            "French",
+            "Dutch"
+        ],
+        "bandera": "https://flagcdn.com/w320/sx.png"
+    },
+    {
+        "nombre": "Iceland",
+        "capital": "Reykjavik",
+        "poblacion": 366425,
+        "idiomas": [
+            "Icelandic"
+        ],
+        "bandera": "https://flagcdn.com/w320/is.png"
+    },
+    {
+        "nombre": "Luxembourg",
+        "capital": "Luxembourg",
+        "poblacion": 632275,
+        "idiomas": [
+            "German",
+            "French",
+            "Luxembourgish"
+        ],
+        "bandera": "https://flagcdn.com/w320/lu.png"
+    },
+    {
+        "nombre": "Argentina",
+        "capital": "Buenos Aires",
+        "poblacion": 45376763,
+        "idiomas": [
+            "Guaraní",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/ar.png"
+    },
+    {
+        "nombre": "Turks and Caicos Islands",
+        "capital": "Cockburn Town",
+        "poblacion": 38718,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/tc.png"
+    },
+    {
+        "nombre": "Nauru",
+        "capital": "Yaren",
+        "poblacion": 10834,
+        "idiomas": [
+            "English",
+            "Nauru"
+        ],
+        "bandera": "https://flagcdn.com/w320/nr.png"
+    },
+    {
+        "nombre": "Cocos (Keeling) Islands",
+        "capital": "West Island",
+        "poblacion": 544,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/cc.png"
+    },
+    {
+        "nombre": "Western Sahara",
+        "capital": "El Aaiún",
+        "poblacion": 510713,
+        "idiomas": [
+            "Berber",
+            "Hassaniya",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/eh.png"
+    },
+    {
+        "nombre": "Dominica",
+        "capital": "Roseau",
+        "poblacion": 71991,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/dm.png"
+    },
+    {
+        "nombre": "Costa Rica",
+        "capital": "San José",
+        "poblacion": 5094114,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/cr.png"
+    },
+    {
+        "nombre": "Australia",
+        "capital": "Canberra",
+        "poblacion": 25687041,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/au.png"
+    },
+    {
+        "nombre": "Thailand",
+        "capital": "Bangkok",
+        "poblacion": 69799978,
+        "idiomas": [
+            "Thai"
+        ],
+        "bandera": "https://flagcdn.com/w320/th.png"
+    },
+    {
+        "nombre": "Haiti",
+        "capital": "Port-au-Prince",
+        "poblacion": 11402533,
+        "idiomas": [
+            "French",
+            "Haitian Creole"
+        ],
+        "bandera": "https://flagcdn.com/w320/ht.png"
+    },
+    {
+        "nombre": "Tuvalu",
+        "capital": "Funafuti",
+        "poblacion": 11792,
+        "idiomas": [
+            "English",
+            "Tuvaluan"
+        ],
+        "bandera": "https://flagcdn.com/w320/tv.png"
+    },
+    {
+        "nombre": "Honduras",
+        "capital": "Tegucigalpa",
+        "poblacion": 9904608,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/hn.png"
+    },
+    {
+        "nombre": "Equatorial Guinea",
+        "capital": "Malabo",
+        "poblacion": 1402985,
+        "idiomas": [
+            "French",
+            "Portuguese",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/gq.png"
+    },
+    {
+        "nombre": "Saint Lucia",
+        "capital": "Castries",
+        "poblacion": 183629,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/lc.png"
+    },
+    {
+        "nombre": "French Polynesia",
+        "capital": "Papeetē",
+        "poblacion": 280904,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/pf.png"
+    },
+    {
+        "nombre": "Belarus",
+        "capital": "Minsk",
+        "poblacion": 9398861,
+        "idiomas": [
+            "Belarusian",
+            "Russian"
+        ],
+        "bandera": "https://flagcdn.com/w320/by.png"
+    },
+    {
+        "nombre": "Latvia",
+        "capital": "Riga",
+        "poblacion": 1901548,
+        "idiomas": [
+            "Latvian"
+        ],
+        "bandera": "https://flagcdn.com/w320/lv.png"
+    },
+    {
+        "nombre": "Palau",
+        "capital": "Ngerulmud",
+        "poblacion": 18092,
+        "idiomas": [
+            "English",
+            "Palauan"
+        ],
+        "bandera": "https://flagcdn.com/w320/pw.png"
+    },
+    {
+        "nombre": "Guadeloupe",
+        "capital": "Basse-Terre",
+        "poblacion": 400132,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/gp.png"
+    },
+    {
+        "nombre": "Philippines",
+        "capital": "Manila",
+        "poblacion": 109581085,
+        "idiomas": [
+            "English",
+            "Filipino"
+        ],
+        "bandera": "https://flagcdn.com/w320/ph.png"
+    },
+    {
+        "nombre": "Gibraltar",
+        "capital": "Gibraltar",
+        "poblacion": 33691,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/gi.png"
+    },
+    {
+        "nombre": "Denmark",
+        "capital": "Copenhagen",
+        "poblacion": 5831404,
+        "idiomas": [
+            "Danish"
+        ],
+        "bandera": "https://flagcdn.com/w320/dk.png"
+    },
+    {
+        "nombre": "Cameroon",
+        "capital": "Yaoundé",
+        "poblacion": 26545864,
+        "idiomas": [
+            "English",
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/cm.png"
+    },
+    {
+        "nombre": "Guinea",
+        "capital": "Conakry",
+        "poblacion": 13132792,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/gn.png"
+    },
+    {
+        "nombre": "Bahrain",
+        "capital": "Manama",
+        "poblacion": 1701583,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/bh.png"
+    },
+    {
+        "nombre": "Suriname",
+        "capital": "Paramaribo",
+        "poblacion": 586634,
+        "idiomas": [
+            "Dutch"
+        ],
+        "bandera": "https://flagcdn.com/w320/sr.png"
+    },
+    {
+        "nombre": "DR Congo",
+        "capital": "Kinshasa",
+        "poblacion": 108407721,
+        "idiomas": [
+            "French",
+            "Kikongo",
+            "Lingala",
+            "Tshiluba",
+            "Swahili"
+        ],
+        "bandera": "https://flagcdn.com/w320/cd.png"
+    },
+    {
+        "nombre": "Somalia",
+        "capital": "Mogadishu",
+        "poblacion": 15893219,
+        "idiomas": [
+            "Arabic",
+            "Somali"
+        ],
+        "bandera": "https://flagcdn.com/w320/so.png"
+    },
+    {
+        "nombre": "Czechia",
+        "capital": "Prague",
+        "poblacion": 10698896,
+        "idiomas": [
+            "Czech",
+            "Slovak"
+        ],
+        "bandera": "https://flagcdn.com/w320/cz.png"
+    },
+    {
+        "nombre": "New Caledonia",
+        "capital": "Nouméa",
+        "poblacion": 271960,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/nc.png"
+    },
+    {
+        "nombre": "Vanuatu",
+        "capital": "Port Vila",
+        "poblacion": 307150,
+        "idiomas": [
+            "Bislama",
+            "English",
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/vu.png"
+    },
+    {
+        "nombre": "Saint Helena, Ascension and Tristan da Cunha",
+        "capital": "Jamestown",
+        "poblacion": 53192,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/sh.png"
+    },
+    {
+        "nombre": "Togo",
+        "capital": "Lomé",
+        "poblacion": 8278737,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/tg.png"
+    },
+    {
+        "nombre": "British Virgin Islands",
+        "capital": "Road Town",
+        "poblacion": 30237,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/vg.png"
+    },
+    {
+        "nombre": "Kenya",
+        "capital": "Nairobi",
+        "poblacion": 53771300,
+        "idiomas": [
+            "English",
+            "Swahili"
+        ],
+        "bandera": "https://flagcdn.com/w320/ke.png"
+    },
+    {
+        "nombre": "Niue",
+        "capital": "Alofi",
+        "poblacion": 1470,
+        "idiomas": [
+            "English",
+            "Niuean"
+        ],
+        "bandera": "https://flagcdn.com/w320/nu.png"
+    },
+    {
+        "nombre": "Heard Island and McDonald Islands",
+        "capital": "Desconocida",
+        "poblacion": 0,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/hm.png"
+    },
+    {
+        "nombre": "Rwanda",
+        "capital": "Kigali",
+        "poblacion": 12952209,
+        "idiomas": [
+            "English",
+            "French",
+            "Kinyarwanda"
+        ],
+        "bandera": "https://flagcdn.com/w320/rw.png"
+    },
+    {
+        "nombre": "Estonia",
+        "capital": "Tallinn",
+        "poblacion": 1331057,
+        "idiomas": [
+            "Estonian"
+        ],
+        "bandera": "https://flagcdn.com/w320/ee.png"
+    },
+    {
+        "nombre": "Romania",
+        "capital": "Bucharest",
+        "poblacion": 19286123,
+        "idiomas": [
+            "Romanian"
+        ],
+        "bandera": "https://flagcdn.com/w320/ro.png"
+    },
+    {
+        "nombre": "Trinidad and Tobago",
+        "capital": "Port of Spain",
+        "poblacion": 1399491,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/tt.png"
+    },
+    {
+        "nombre": "Guyana",
+        "capital": "Georgetown",
+        "poblacion": 786559,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/gy.png"
+    },
+    {
+        "nombre": "Timor-Leste",
+        "capital": "Dili",
+        "poblacion": 1318442,
+        "idiomas": [
+            "Portuguese",
+            "Tetum"
+        ],
+        "bandera": "https://flagcdn.com/w320/tl.png"
+    },
+    {
+        "nombre": "Vietnam",
+        "capital": "Hanoi",
+        "poblacion": 97338583,
+        "idiomas": [
+            "Vietnamese"
+        ],
+        "bandera": "https://flagcdn.com/w320/vn.png"
+    },
+    {
+        "nombre": "Uruguay",
+        "capital": "Montevideo",
+        "poblacion": 3473727,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/uy.png"
+    },
+    {
+        "nombre": "Vatican City",
+        "capital": "Vatican City",
+        "poblacion": 451,
+        "idiomas": [
+            "Italian",
+            "Latin"
+        ],
+        "bandera": "https://flagcdn.com/w320/va.png"
+    },
+    {
+        "nombre": "Hong Kong",
+        "capital": "City of Victoria",
+        "poblacion": 7500700,
+        "idiomas": [
+            "English",
+            "Chinese"
+        ],
+        "bandera": "https://flagcdn.com/w320/hk.png"
+    },
+    {
+        "nombre": "Austria",
+        "capital": "Vienna",
+        "poblacion": 8917205,
+        "idiomas": [
+            "German"
+        ],
+        "bandera": "https://flagcdn.com/w320/at.png"
+    },
+    {
+        "nombre": "Antigua and Barbuda",
+        "capital": "Saint John's",
+        "poblacion": 97928,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/ag.png"
+    },
+    {
+        "nombre": "Turkmenistan",
+        "capital": "Ashgabat",
+        "poblacion": 6031187,
+        "idiomas": [
+            "Russian",
+            "Turkmen"
+        ],
+        "bandera": "https://flagcdn.com/w320/tm.png"
+    },
+    {
+        "nombre": "Mozambique",
+        "capital": "Maputo",
+        "poblacion": 31255435,
+        "idiomas": [
+            "Portuguese"
+        ],
+        "bandera": "https://flagcdn.com/w320/mz.png"
+    },
+    {
+        "nombre": "Panama",
+        "capital": "Panama City",
+        "poblacion": 4314768,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/pa.png"
+    },
+    {
+        "nombre": "Micronesia",
+        "capital": "Palikir",
+        "poblacion": 115021,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/fm.png"
+    },
+    {
+        "nombre": "Ireland",
+        "capital": "Dublin",
+        "poblacion": 4994724,
+        "idiomas": [
+            "English",
+            "Irish"
+        ],
+        "bandera": "https://flagcdn.com/w320/ie.png"
+    },
+    {
+        "nombre": "Curaçao",
+        "capital": "Willemstad",
+        "poblacion": 155014,
+        "idiomas": [
+            "English",
+            "Dutch",
+            "Papiamento"
+        ],
+        "bandera": "https://flagcdn.com/w320/cw.png"
+    },
+    {
+        "nombre": "French Guiana",
+        "capital": "Cayenne",
+        "poblacion": 254541,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/gf.png"
+    },
+    {
+        "nombre": "Norway",
+        "capital": "Oslo",
+        "poblacion": 5379475,
+        "idiomas": [
+            "Norwegian Nynorsk",
+            "Norwegian Bokmål",
+            "Sami"
+        ],
+        "bandera": "https://flagcdn.com/w320/no.png"
+    },
+    {
+        "nombre": "Åland Islands",
+        "capital": "Mariehamn",
+        "poblacion": 29458,
+        "idiomas": [
+            "Swedish"
+        ],
+        "bandera": "https://flagcdn.com/w320/ax.png"
+    },
+    {
+        "nombre": "Central African Republic",
+        "capital": "Bangui",
+        "poblacion": 4829764,
+        "idiomas": [
+            "French",
+            "Sango"
+        ],
+        "bandera": "https://flagcdn.com/w320/cf.png"
+    },
+    {
+        "nombre": "Burkina Faso",
+        "capital": "Ouagadougou",
+        "poblacion": 20903278,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/bf.png"
+    },
+    {
+        "nombre": "Eritrea",
+        "capital": "Asmara",
+        "poblacion": 5352000,
+        "idiomas": [
+            "Arabic",
+            "English",
+            "Tigrinya"
+        ],
+        "bandera": "https://flagcdn.com/w320/er.png"
+    },
+    {
+        "nombre": "Tanzania",
+        "capital": "Dodoma",
+        "poblacion": 59734213,
+        "idiomas": [
+            "English",
+            "Swahili"
+        ],
+        "bandera": "https://flagcdn.com/w320/tz.png"
+    },
+    {
+        "nombre": "South Korea",
+        "capital": "Seoul",
+        "poblacion": 51780579,
+        "idiomas": [
+            "Korean"
+        ],
+        "bandera": "https://flagcdn.com/w320/kr.png"
+    },
+    {
+        "nombre": "Jordan",
+        "capital": "Amman",
+        "poblacion": 10203140,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/jo.png"
+    },
+    {
+        "nombre": "Mauritania",
+        "capital": "Nouakchott",
+        "poblacion": 4649660,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/mr.png"
+    },
+    {
+        "nombre": "Lithuania",
+        "capital": "Vilnius",
+        "poblacion": 2794700,
+        "idiomas": [
+            "Lithuanian"
+        ],
+        "bandera": "https://flagcdn.com/w320/lt.png"
+    },
+    {
+        "nombre": "United States Minor Outlying Islands",
+        "capital": "Washington DC",
+        "poblacion": 300,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/um.png"
+    },
+    {
+        "nombre": "Slovakia",
+        "capital": "Bratislava",
+        "poblacion": 5458827,
+        "idiomas": [
+            "Slovak"
+        ],
+        "bandera": "https://flagcdn.com/w320/sk.png"
+    },
+    {
+        "nombre": "Angola",
+        "capital": "Luanda",
+        "poblacion": 32866268,
+        "idiomas": [
+            "Portuguese"
+        ],
+        "bandera": "https://flagcdn.com/w320/ao.png"
+    },
+    {
+        "nombre": "Kazakhstan",
+        "capital": "Nur-Sultan",
+        "poblacion": 18754440,
+        "idiomas": [
+            "Kazakh",
+            "Russian"
+        ],
+        "bandera": "https://flagcdn.com/w320/kz.png"
+    },
+    {
+        "nombre": "Moldova",
+        "capital": "Chișinău",
+        "poblacion": 2617820,
+        "idiomas": [
+            "Romanian"
+        ],
+        "bandera": "https://flagcdn.com/w320/md.png"
+    },
+    {
+        "nombre": "Mali",
+        "capital": "Bamako",
+        "poblacion": 20250834,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/ml.png"
+    },
+    {
+        "nombre": "Falkland Islands",
+        "capital": "Stanley",
+        "poblacion": 2563,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/fk.png"
+    },
+    {
+        "nombre": "Armenia",
+        "capital": "Yerevan",
+        "poblacion": 2963234,
+        "idiomas": [
+            "Armenian"
+        ],
+        "bandera": "https://flagcdn.com/w320/am.png"
+    },
+    {
+        "nombre": "Samoa",
+        "capital": "Apia",
+        "poblacion": 198410,
+        "idiomas": [
+            "English",
+            "Samoan"
+        ],
+        "bandera": "https://flagcdn.com/w320/ws.png"
+    },
+    {
+        "nombre": "Jersey",
+        "capital": "Saint Helier",
+        "poblacion": 100800,
+        "idiomas": [
+            "English",
+            "French",
+            "Jèrriais"
+        ],
+        "bandera": "https://flagcdn.com/w320/je.png"
+    },
+    {
+        "nombre": "Japan",
+        "capital": "Tokyo",
+        "poblacion": 125836021,
+        "idiomas": [
+            "Japanese"
+        ],
+        "bandera": "https://flagcdn.com/w320/jp.png"
+    },
+    {
+        "nombre": "Bolivia",
+        "capital": "Sucre",
+        "poblacion": 11673029,
+        "idiomas": [
+            "Aymara",
+            "Guaraní",
+            "Quechua",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/bo.png"
+    },
+    {
+        "nombre": "Chile",
+        "capital": "Santiago",
+        "poblacion": 19116209,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/cl.png"
+    },
+    {
+        "nombre": "United States",
+        "capital": "Washington, D.C.",
+        "poblacion": 329484123,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/us.png"
+    },
+    {
+        "nombre": "Saint Vincent and the Grenadines",
+        "capital": "Kingstown",
+        "poblacion": 110947,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/vc.png"
+    },
+    {
+        "nombre": "Bermuda",
+        "capital": "Hamilton",
+        "poblacion": 63903,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/bm.png"
+    },
+    {
+        "nombre": "Seychelles",
+        "capital": "Victoria",
+        "poblacion": 98462,
+        "idiomas": [
+            "Seychellois Creole",
+            "English",
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/sc.png"
+    },
+    {
+        "nombre": "British Indian Ocean Territory",
+        "capital": "Diego Garcia",
+        "poblacion": 3000,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/io.png"
+    },
+    {
+        "nombre": "Guatemala",
+        "capital": "Guatemala City",
+        "poblacion": 16858333,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/gt.png"
+    },
+    {
+        "nombre": "Ecuador",
+        "capital": "Quito",
+        "poblacion": 17643060,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/ec.png"
+    },
+    {
+        "nombre": "Martinique",
+        "capital": "Fort-de-France",
+        "poblacion": 378243,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/mq.png"
+    },
+    {
+        "nombre": "Tajikistan",
+        "capital": "Dushanbe",
+        "poblacion": 9537642,
+        "idiomas": [
+            "Russian",
+            "Tajik"
+        ],
+        "bandera": "https://flagcdn.com/w320/tj.png"
+    },
+    {
+        "nombre": "Malta",
+        "capital": "Valletta",
+        "poblacion": 525285,
+        "idiomas": [
+            "English",
+            "Maltese"
+        ],
+        "bandera": "https://flagcdn.com/w320/mt.png"
+    },
+    {
+        "nombre": "Gambia",
+        "capital": "Banjul",
+        "poblacion": 2416664,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/gm.png"
+    },
+    {
+        "nombre": "Nigeria",
+        "capital": "Abuja",
+        "poblacion": 206139587,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/ng.png"
+    },
+    {
+        "nombre": "Bahamas",
+        "capital": "Nassau",
+        "poblacion": 393248,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/bs.png"
+    },
+    {
+        "nombre": "Kosovo",
+        "capital": "Pristina",
+        "poblacion": 1775378,
+        "idiomas": [
+            "Albanian",
+            "Serbian"
+        ],
+        "bandera": "https://flagcdn.com/w320/xk.png"
+    },
+    {
+        "nombre": "Kuwait",
+        "capital": "Kuwait City",
+        "poblacion": 4270563,
+        "idiomas": [
+            "Arabic"
+        ],
+        "bandera": "https://flagcdn.com/w320/kw.png"
+    },
+    {
+        "nombre": "Maldives",
+        "capital": "Malé",
+        "poblacion": 540542,
+        "idiomas": [
+            "Maldivian"
+        ],
+        "bandera": "https://flagcdn.com/w320/mv.png"
+    },
+    {
+        "nombre": "South Sudan",
+        "capital": "Juba",
+        "poblacion": 11193729,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/ss.png"
+    },
+    {
+        "nombre": "Iran",
+        "capital": "Tehran",
+        "poblacion": 83992953,
+        "idiomas": [
+            "Persian (Farsi)"
+        ],
+        "bandera": "https://flagcdn.com/w320/ir.png"
+    },
+    {
+        "nombre": "Albania",
+        "capital": "Tirana",
+        "poblacion": 2837743,
+        "idiomas": [
+            "Albanian"
+        ],
+        "bandera": "https://flagcdn.com/w320/al.png"
+    },
+    {
+        "nombre": "Brazil",
+        "capital": "Brasília",
+        "poblacion": 212559409,
+        "idiomas": [
+            "Portuguese"
+        ],
+        "bandera": "https://flagcdn.com/w320/br.png"
+    },
+    {
+        "nombre": "Serbia",
+        "capital": "Belgrade",
+        "poblacion": 6908224,
+        "idiomas": [
+            "Serbian"
+        ],
+        "bandera": "https://flagcdn.com/w320/rs.png"
+    },
+    {
+        "nombre": "Belize",
+        "capital": "Belmopan",
+        "poblacion": 397621,
+        "idiomas": [
+            "Belizean Creole",
+            "English",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/bz.png"
+    },
+    {
+        "nombre": "Myanmar",
+        "capital": "Naypyidaw",
+        "poblacion": 54409794,
+        "idiomas": [
+            "Burmese"
+        ],
+        "bandera": "https://flagcdn.com/w320/mm.png"
+    },
+    {
+        "nombre": "Bhutan",
+        "capital": "Thimphu",
+        "poblacion": 771612,
+        "idiomas": [
+            "Dzongkha"
+        ],
+        "bandera": "https://flagcdn.com/w320/bt.png"
+    },
+    {
+        "nombre": "Venezuela",
+        "capital": "Caracas",
+        "poblacion": 28435943,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/ve.png"
+    },
+    {
+        "nombre": "Liberia",
+        "capital": "Monrovia",
+        "poblacion": 5057677,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/lr.png"
+    },
+    {
+        "nombre": "Jamaica",
+        "capital": "Kingston",
+        "poblacion": 2961161,
+        "idiomas": [
+            "English",
+            "Jamaican Patois"
+        ],
+        "bandera": "https://flagcdn.com/w320/jm.png"
+    },
+    {
+        "nombre": "Poland",
+        "capital": "Warsaw",
+        "poblacion": 37950802,
+        "idiomas": [
+            "Polish"
+        ],
+        "bandera": "https://flagcdn.com/w320/pl.png"
+    },
+    {
+        "nombre": "Cayman Islands",
+        "capital": "George Town",
+        "poblacion": 65720,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/ky.png"
+    },
+    {
+        "nombre": "Brunei",
+        "capital": "Bandar Seri Begawan",
+        "poblacion": 437483,
+        "idiomas": [
+            "Malay"
+        ],
+        "bandera": "https://flagcdn.com/w320/bn.png"
+    },
+    {
+        "nombre": "Comoros",
+        "capital": "Moroni",
+        "poblacion": 869595,
+        "idiomas": [
+            "Arabic",
+            "French",
+            "Comorian"
+        ],
+        "bandera": "https://flagcdn.com/w320/km.png"
+    },
+    {
+        "nombre": "Guam",
+        "capital": "Hagåtña",
+        "poblacion": 168783,
+        "idiomas": [
+            "Chamorro",
+            "English",
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/gu.png"
+    },
+    {
+        "nombre": "Tonga",
+        "capital": "Nuku'alofa",
+        "poblacion": 105697,
+        "idiomas": [
+            "English",
+            "Tongan"
+        ],
+        "bandera": "https://flagcdn.com/w320/to.png"
+    },
+    {
+        "nombre": "Kiribati",
+        "capital": "South Tarawa",
+        "poblacion": 119446,
+        "idiomas": [
+            "English",
+            "Gilbertese"
+        ],
+        "bandera": "https://flagcdn.com/w320/ki.png"
+    },
+    {
+        "nombre": "Ghana",
+        "capital": "Accra",
+        "poblacion": 31072945,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/gh.png"
+    },
+    {
+        "nombre": "Chad",
+        "capital": "N'Djamena",
+        "poblacion": 16425859,
+        "idiomas": [
+            "Arabic",
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/td.png"
+    },
+    {
+        "nombre": "Zimbabwe",
+        "capital": "Harare",
+        "poblacion": 14862927,
+        "idiomas": [
+            "Chibarwe",
+            "English",
+            "Kalanga",
+            "Khoisan",
+            "Ndau",
+            "Northern Ndebele",
+            "Chewa",
+            "Shona",
+            "Sotho",
+            "Tonga",
+            "Tswana",
+            "Tsonga",
+            "Venda",
+            "Xhosa",
+            "Zimbabwean Sign Language"
+        ],
+        "bandera": "https://flagcdn.com/w320/zw.png"
+    },
+    {
+        "nombre": "Saint Martin",
+        "capital": "Marigot",
+        "poblacion": 38659,
+        "idiomas": [
+            "French"
+        ],
+        "bandera": "https://flagcdn.com/w320/mf.png"
+    },
+    {
+        "nombre": "Mongolia",
+        "capital": "Ulan Bator",
+        "poblacion": 3278292,
+        "idiomas": [
+            "Mongolian"
+        ],
+        "bandera": "https://flagcdn.com/w320/mn.png"
+    },
+    {
+        "nombre": "Portugal",
+        "capital": "Lisbon",
+        "poblacion": 10305564,
+        "idiomas": [
+            "Portuguese"
+        ],
+        "bandera": "https://flagcdn.com/w320/pt.png"
+    },
+    {
+        "nombre": "American Samoa",
+        "capital": "Pago Pago",
+        "poblacion": 55197,
+        "idiomas": [
+            "English",
+            "Samoan"
+        ],
+        "bandera": "https://flagcdn.com/w320/as.png"
+    },
+    {
+        "nombre": "Republic of the Congo",
+        "capital": "Brazzaville",
+        "poblacion": 5657000,
+        "idiomas": [
+            "French",
+            "Kikongo",
+            "Lingala"
+        ],
+        "bandera": "https://flagcdn.com/w320/cg.png"
+    },
+    {
+        "nombre": "Belgium",
+        "capital": "Brussels",
+        "poblacion": 11555997,
+        "idiomas": [
+            "German",
+            "French",
+            "Dutch"
+        ],
+        "bandera": "https://flagcdn.com/w320/be.png"
+    },
+    {
+        "nombre": "Israel",
+        "capital": "Jerusalem",
+        "poblacion": 9216900,
+        "idiomas": [
+            "Arabic",
+            "Hebrew"
+        ],
+        "bandera": "https://flagcdn.com/w320/il.png"
+    },
+    {
+        "nombre": "New Zealand",
+        "capital": "Wellington",
+        "poblacion": 5084300,
+        "idiomas": [
+            "English",
+            "Māori",
+            "New Zealand Sign Language"
+        ],
+        "bandera": "https://flagcdn.com/w320/nz.png"
+    },
+    {
+        "nombre": "Nicaragua",
+        "capital": "Managua",
+        "poblacion": 6624554,
+        "idiomas": [
+            "Spanish"
+        ],
+        "bandera": "https://flagcdn.com/w320/ni.png"
+    },
+    {
+        "nombre": "Anguilla",
+        "capital": "The Valley",
+        "poblacion": 13452,
+        "idiomas": [
+            "English"
+        ],
+        "bandera": "https://flagcdn.com/w320/ai.png"
+    }
+]
