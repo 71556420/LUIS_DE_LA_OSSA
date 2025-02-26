@@ -117,7 +117,7 @@ if __name__ == "__main__":
     lector = LectorTXT()
     contenido = lector.leer_txt()
     if contenido:
-        print("\n📜 Contenido del archivo TXT:")
+        print("\n Contenido del archivo TXT:")
         print(contenido)
 
     escribir_csv()

@@ -35,10 +35,10 @@ def obtener_datos_paises():
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             json.dump(paises_info, f, indent=4, ensure_ascii=False)
 
-        print(f"✅ Datos guardados en {OUTPUT_FILE}")
+        print(f" Datos guardados en {OUTPUT_FILE}")
 
     except requests.exceptions.RequestException as e:
-        print(f"⚠️ Error al obtener los datos: {e}")
+        print(f" Error al obtener los datos: {e}")
 
 # Ejecutar el script
 if __name__ == "__main__":
