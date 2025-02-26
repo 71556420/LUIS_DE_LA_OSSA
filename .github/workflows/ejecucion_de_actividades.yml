@@ -24,6 +24,9 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt || echo "No se encontraron dependencias adicionales"
 
+      - name: Instalar dependencias
+        run: pip install --no-cache-dir -r requirements.txt
+
       - name: Ejecutar script - Generar archivo JSON de países
         run: python src/pad_2025/obtener_paises.py
 
@@ -38,9 +41,6 @@ jobs:
 
       - name: Ejecutar script - Generar archivo CSV de frutas
         run: python src/pad_2025/generar_frutas.py
-
-      -  name: Instalar dependencias
-         run: pip install -r requirements.txt
 
       - name: Ejecutar script - Leer archivo CSV de frutas
         run: python src/pad_2025/leer_frutas.py
