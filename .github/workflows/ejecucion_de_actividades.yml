@@ -28,7 +28,7 @@ jobs:
         run: pip install --no-cache-dir -r requirements.txt
 
       - name: Ejecutar script - Generar archivo JSON de países
-        run: python src/pad_2025/obtener_paises.json
+        run: python src/pad_2025/obtener_paises.py
 
       - name: Ejecutar script - Leer archivo JSON de paises
         run: python src/pad_2025/leer_paises.json
