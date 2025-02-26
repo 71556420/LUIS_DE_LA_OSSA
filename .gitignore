@@ -4,9 +4,8 @@ __pycache__/
 *$py.class
 # Ignorar archivos JSON, TXT y Excel
 *.json
-*.txt
 *.xlsx
-
+*.txt
 # C extensions
 *.so
 
