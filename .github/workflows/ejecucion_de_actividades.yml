@@ -1,0 +1,50 @@
+name: ejecucion_de_actividades
+
+on:
+  push:
+    branches:
+      - main  # Se ejecutará cuando haya un push en la rama 'main'
+  pull_request:
+    branches:
+      - main  # También se ejecutará cuando haya un PR a 'main'
+
+jobs:
+  ejecutar_scripts:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar el repositorio en el entorno de GitHub Actions
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt || echo "No se encontraron dependencias adicionales"
+
+      - name: Ejecutar script - Generar archivo JSON de países
+        run: python src/pad_2025/obtener_paises.py
+
+      - name: Ejecutar script - Leer archivo JSON de países
+        run: python src/pad_2025/leer_paises.py
+
+      - name: Ejecutar script - Graficar líneas
+        run: python src/pad_2025/graficar_lineas.py
+
+      - name: Ejecutar script - Leer archivo TXT (desempacado)
+        run: python src/pad_2025/leer_desempacado.py
+
+      - name: Ejecutar script - Generar archivo CSV de frutas
+        run: python src/pad_2025/generar_frutas.py
+
+      - name: Ejecutar script - Leer archivo CSV de frutas
+        run: python src/pad_2025/leer_frutas.py
+
+      - name: Confirmar cambios en el repositorio (sin hacer push)
+        run: |
+          git          commit_message: Entrega actividad 1
+          git config   commit_user_name: LUIS DE LA OSSA
+          git config   commit_user_email:fernando.delaossa@est.iudigital.edu.co
+          git add      commit_author: fernando.delaossa@est.iudigital.edu.co            
