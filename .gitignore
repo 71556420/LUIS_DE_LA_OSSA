@@ -2,6 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
+# Ignorar archivos JSON, TXT y Excel
+*.json
+*.txt
+*.xlsx
 
 # C extensions
 *.so
