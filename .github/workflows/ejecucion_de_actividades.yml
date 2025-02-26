@@ -31,19 +31,19 @@ jobs:
         run: python src/pad_2025/obtener_paises.py
 
       - name: Ejecutar script - Leer archivo JSON de obtener_paises
-        run: python src/pad_2025/leer obtener_paises.py
+        run: python src/pad_2025/leer_obtener_paises.py
 
-      - name: Ejecutar script - Graficar líneas
-        run: python src/pad_2025/graficar_lineas.py
+      - name: Ejecutar script - Graficar líneas de actividad_1
+        run: python src/pad_2025/generar_grafica.png
 
       - name: Ejecutar script - Leer archivo TXT (desempacado)
-        run: python src/pad_2025/leer_desempacado.py
+        run: python src/pad_2025/leer_instruccion_1.py
 
       - name: Ejecutar script - Generar archivo CSV de frutas
-        run: python src/pad_2025/generar_frutas.py
+        run: python src/pad_2025/generar_frutas.csv
 
       - name: Ejecutar script - Leer archivo CSV de frutas
-        run: python src/pad_2025/leer_frutas.py
+        run: python src/pad_2025/leer_frutas.csv
 
       - name: Confirmar cambios en el repositorio (sin hacer push)
         run: |
