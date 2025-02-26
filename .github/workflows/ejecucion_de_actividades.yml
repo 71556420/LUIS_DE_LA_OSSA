@@ -31,7 +31,7 @@ jobs:
         run: python src/pad_2025/obtener_paises.py
 
       - name: Ejecutar script - Leer archivo JSON de paises
-        run: python src/pad_2025/leer_paises.py
+        run: python src/pad_2025/obtener_paises.py
 
       - name: Ejecutar script - Graficar líneas de actividad_1
         run: python src/pad_2025/generar_grafica.png
