@@ -110,7 +110,7 @@ def extraer_api():
     print(f" Pipeline completada. Archivo generado en: {ruta_csv}")
 
 
-#  PRUEBAS
+#  pruebas 
 if __name__ == "__main__":
     graficar_polinomios((1, 2), (-0.5, 3), (2, 1))
 
