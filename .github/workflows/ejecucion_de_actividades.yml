@@ -38,7 +38,7 @@ jobs:
         run: python src/pad_2025/actividad_1.py
 
       - name: Ejecutar script - Leer archivo TXT
-        run: python src/pad_2025/leer_instruccion_1.py
+        run: python src/pad_2025/leer_instruccion_1.txt
 
       - name: Ejecutar script - Generar archivo CSV de frutas
         run: python src/pad_2025/actividad_1.py
