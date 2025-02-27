@@ -45,6 +45,16 @@ jobs:
 
       - name: Confirmar cambios en el repositorio (sin hacer push)
         run: |
+          git config --global user.name "LUIS DE LA OSSA"
+          git config --global user.email "fernando.delaossa@est.iudigital.edu.co"
+          git add .
+          git commit -m "Entrega actividad_1" || echo "No hay cambios para confirmar"
+      
+
+
+        
+      - name: Confirmar cambios en el repositorio (sin hacer push)
+        run: |
           commit_message: Entrega actividad_1
           commit_user_name: Luis de la Ossa [GitHub Actions]
           commit_user_email: fernando.delaossa@est.iudigital.edu.co
