@@ -53,9 +53,3 @@ jobs:
 
 
         
-      - name: Confirmar cambios en el repositorio (sin hacer push)
-        run: |
-          commit_message: Entrega actividad_1
-          commit_user_name: Luis de la Ossa [GitHub Actions]
-          commit_user_email: fernando.delaossa@est.iudigital.edu.co
-          commit_author: fernando.delaossa@est.iudigital.edu.co
