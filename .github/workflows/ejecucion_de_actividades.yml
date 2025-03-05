@@ -34,8 +34,15 @@ jobs:
       - name: Ejecutar script - Generar archivo JSON de países
         run: python src/pad_2025/obtener_paises.py
 
+      - name: Verificar si el archivo JSON fue creado
+        run: |
+          if [ ! -f "src/pad_2025/static/json/paises.json" ]; then
+            echo "ERROR: El archivo paises.json no fue generado."
+            exit 1
+          fi
+
       - name: Guardar archivo JSON generado
-        uses: actions/upload-artifact@v4  #  Actualizado a la versión correcta
+        uses: actions/upload-artifact@v4
         with:
           name: paises-json
           path: src/pad_2025/static/json/paises.json
