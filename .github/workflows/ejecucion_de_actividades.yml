@@ -30,10 +30,15 @@ jobs:
           mkdir -p src/pad_2025/static/txt
           mkdir -p src/pad_2025/static/csv
           mkdir -p src/pad_2025/static/img
-
       - name: Ejecutar script - Generar archivo JSON de países
-        run: python src/pad_2025/obtener_paises.py
+  run: python src/pad_2025/obtener_paises.py
 
+      - name: Guardar archivo JSON generado
+  uses: actions/upload-artifact@v3
+  with:
+    name: paises-json
+    path: src/pad_2025/static/json/paises.json
+     
       - name: Ejecutar script - Graficar líneas
         run: python src/pad_2025/actividad_1.py
 
