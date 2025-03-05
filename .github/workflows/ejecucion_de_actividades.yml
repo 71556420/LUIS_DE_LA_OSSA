@@ -13,48 +13,45 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Clonar el repositorio
+      - name: 📥 Clonar el repositorio
         uses: actions/checkout@v3
 
-      - name: Configurar Python
+      - name: 🛠️ Configurar Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
-      - name: Instalar dependencias
+      - name: 📦 Instalar dependencias
         run: pip install requests matplotlib numpy pandas
 
-      - name: Crear directorios requeridos
+      - name: 📂 Crear directorios requeridos
         run: |
           mkdir -p src/pad_2025/static/json
           mkdir -p src/pad_2025/static/txt
           mkdir -p src/pad_2025/static/csv
           mkdir -p src/pad_2025/static/img
-      - name: Ejecutar script - Generar archivo JSON de países
-  run: python src/pad_2025/obtener_paises.py
 
-      - name: Guardar archivo JSON generado
-  uses: actions/upload-artifact@v3
-  with:
-    name: paises-json
-    path: src/pad_2025/static/json/paises.json
-     
-      - name: Ejecutar script - Graficar líneas
+      - name: 🌍 Ejecutar script - Generar archivo JSON de países
+        run: python src/pad_2025/obtener_paises.py
+
+      - name: 💾 Guardar archivo JSON generado
+        uses: actions/upload-artifact@v3
+        with:
+          name: paises-json
+          path: src/pad_2025/static/json/paises.json
+
+      - name: 📊 Ejecutar script - Graficar líneas
         run: python src/pad_2025/actividad_1.py
 
-      - name: Ejecutar script - Generar archivo CSV de frutas
+      - name: 🍎 Ejecutar script - Generar archivo CSV de frutas
         run: python src/pad_2025/actividad_1.py
 
-      - name: Ejecutar script - Leer archivo CSV de frutas
+      - name: 📑 Ejecutar script - Leer archivo CSV de frutas
         run: python src/pad_2025/actividad_1.py
 
-      - name: Confirmar cambios en el repositorio (sin hacer push)
+      - name: ✅ Confirmar cambios en el repositorio (sin hacer push)
         run: |
           git config --global user.name "LUIS DE LA OSSA"
           git config --global user.email "fernando.delaossa@est.iudigital.edu.co"
           git add .
           git commit -m "Entrega actividad_1" || echo "No hay cambios para confirmar"
-      
-
-
-        
